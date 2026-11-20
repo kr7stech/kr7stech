@@ -10,6 +10,9 @@
 
 Final-year Software Engineering Student building backend services, distributed systems, and practical applications.
 
+---
+
+### My Socials
 <p align="center">
   <a href="https://discord.gg/UJxtvPu6" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord" />
@@ -22,7 +25,8 @@ Final-year Software Engineering Student building backend services, distributed s
   <a href="mailto:kartikkrispillay@yahoo.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" />
   </a>
-</p>
+</p>  
+
 ---
 
 ### Tech Stack
