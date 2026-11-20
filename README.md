@@ -14,7 +14,7 @@ Final-year Software Engineering Student building backend services, distributed s
 
 ### My Socials
 <p align="center">
-  <a href="https://discord.gg/UJxtvPu6" target="_blank">
+  <a href="https://discord.gg/794H4g2V" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="38" height="38" alt="Discord" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,7 +23,7 @@ Final-year Software Engineering Student building backend services, distributed s
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kartikkrispillay@yahoo.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/yahoo.png" width="38" height="38" alt="Yahoo Mail" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" />
   </a>
 </p>
 
