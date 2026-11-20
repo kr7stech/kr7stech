@@ -15,15 +15,18 @@ Final-year Software Engineering Student building backend services, distributed s
 ### My Socials
 <p align="center">
   <a href="https://discord.gg/UJxtvPu6" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="38" height="38" alt="Discord" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/kr7s._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="38" height="38" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kartikkrispillay@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail" />
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="38" height="38">
+      <rect width="48" height="48" rx="10" fill="#6001D2"/>
+      <text x="24" y="33" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-weight="bold" font-size="26">Y!</text>
+    </svg>
   </a>
 </p>
 
