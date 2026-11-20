@@ -23,10 +23,7 @@ Final-year Software Engineering Student building backend services, distributed s
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kartikkrispillay@yahoo.com" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="38" height="38">
-      <rect width="48" height="48" rx="10" fill="#6001D2"/>
-      <text x="24" y="33" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-weight="bold" font-size="26">Y!</text>
-    </svg>
+    <img src="https://img.icons8.com/color/48/yahoo.png" width="38" height="38" alt="Yahoo Mail" />
   </a>
 </p>
 
