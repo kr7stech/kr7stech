@@ -6,6 +6,9 @@
 
 <div align="center">
 
+
+---
+
 ### About Me
 
 Final-year Software Engineering Student building backend services, distributed systems, and practical applications.
