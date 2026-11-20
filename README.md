@@ -15,17 +15,17 @@ Final-year Software Engineering Student building backend services, distributed s
 ### My Socials
 <p align="center">
   <a href="https://discord.gg/UJxtvPu6" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://instagram.com/kr7s._" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:kartikkrispillay@yahoo.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/yahoo/6001D2" width="32" height="32" alt="Yahoo Mail" />
+    <img src="https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail" />
   </a>
-</p> 
+</p>
 
 ---
 
