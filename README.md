@@ -23,9 +23,9 @@ Final-year Software Engineering Student building backend services, distributed s
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kartikkrispillay@yahoo.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" />
+    <img src="https://cdn.simpleicons.org/yahoo/6001D2" width="32" height="32" alt="Yahoo Mail" />
   </a>
-</p>  
+</p> 
 
 ---
 
