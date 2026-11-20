@@ -10,10 +10,19 @@
 
 Final-year Software Engineering Student building backend services, distributed systems, and practical applications.
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UJxtvPu6)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kr7s._)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikkrispillay@yahoo.com)
-
+<p align="center">
+  <a href="https://discord.gg/UJxtvPu6" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/kr7s._" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kartikkrispillay@yahoo.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" />
+  </a>
+</p>
 ---
 
 ### Tech Stack
