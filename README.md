@@ -23,7 +23,7 @@ Final-year Software Engineering Student building backend services, distributed s
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kartikkrispillay@yahoo.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Yahoo%21_%282019_logo%29.svg/512px-Yahoo%21_%282019_logo%29.svg.png" height="38" alt="Yahoo Mail" />
+    <img src="https://img.icons8.com/color/48/yahoo.png" width="38" height="38" alt="Yahoo Mail" />
   </a>
 </p>
 
